@@ -1,7 +1,8 @@
 #include "hello.h"
+#include "say.h"
 
 int main(void)
 {
-    hello();
+    say(hello());
     return 0;
 }

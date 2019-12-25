@@ -1,6 +1,6 @@
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.5)
 
 project(HELLO)
 
-add_subdirectory(Hello)
-add_subdirectory(Demo)
+add_subdirectory(hello)
+add_subdirectory(demo)
